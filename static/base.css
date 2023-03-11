@@ -17,11 +17,15 @@ article { width: 75%; margin: auto; }
 h1 { font-size: xx-large; }
 h2 { font-size: x-large }
 p::first-letter { font-size: xx-large; }
-a:link { color: MediumSpringGreen; }
+a:link { color: MediumSpringGreen; text-decoration: none; }
 a:visited { color: LightPink; text-decoration: none; }
-a:hover { color: Ivory; }
-a:active { color: Gold; }
+a:hover { color: Ivory; text-decoration: none; }
+a:active { color: Gold; text-decoration: none; }
+table { border: thick solid black; margin: auto; border-collapse: collapse; }
+td, th { border: thick dotted black; padding: 1%; }
+caption { padding: 1%; }
 footer { display: table-row; height: 0; color: black; background-color: grey; }
 footer img { margin: 1%; float: right; }
+.profile-photo { margin: 1%; float: right; }
 address { float: left; padding: 3%; }
 
