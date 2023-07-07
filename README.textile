@@ -1,6 +1,6 @@
-# SRSMOW
+h1. SRSMOW
 
-*(SolaR SysteM OvervieW)*
+_(SolaR SysteM OvervieW)_
 
 some information about solar system in format of HTML
 
