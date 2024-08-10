@@ -1,0 +1,115 @@
+commit 87046aad11a7c48a7ff05fb583dc3e9d0e3ab04f
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Aug 10 15:55:32 2024 +0300
+
+    chore(CONTRIBUTING): added
+
+commit d499ee0624248147ddd37ae43c2cb478913ddd9c
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Aug 9 21:29:15 2024 +0300
+
+    chore(COPYING): AGPL
+
+commit c97735539b7ccb19630ed490d9d33b52a866497c
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Fri Jul 7 23:56:25 2023 +0300
+
+    feat(docs, main.lua): ldoc, request func
+
+commit a6b0433330d5f76d5188fc3e629ee7b771b4cfde
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Tue Jul 4 14:55:54 2023 +0300
+
+    feat: refactor, lua server code template
+
+commit 04968f4fa8a858bce6b2184b118bd4408bc4cd49
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sat May 13 11:47:05 2023 +0300
+
+    chore(LICENSE): move to AGPL v3
+
+commit 730c1a79de9330e2f520154fe96ce6e1f6d90133
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Apr 30 18:41:20 2023 +0300
+
+    Feat/website initial (#5)
+    
+    * feat: basic HTML structure
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+    
+    * add: some html files
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+    
+    * add: favicon, hreflang
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+    
+    * add: mercury (completed); table css
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+    
+    * fix: styling & misprints
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+    
+    * fix: alt value for img & walidator corrections
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+    
+    ---------
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+
+commit a111be6179591c5601670969814c85c16919191e
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Apr 30 18:31:12 2023 +0300
+
+    chores: issue request template misprint (#8)
+
+commit ce1a6d76cefdbb6049d4c1e1f615da5ef27f8c35
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sun Mar 12 19:00:24 2023 +0300
+
+    Update issue templates (#3)
+
+commit 30ea7b94381134f8cbd74038d75ce872484ebce5
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sat Mar 11 23:12:13 2023 +0300
+
+    Feat/website initial (#2)
+    
+    * feat: basic HTML structure
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+    
+    * add: some html files
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+    
+    * add: favicon, hreflang
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+    
+    * add: mercury (completed); table css
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+    
+    ---------
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+
+commit d7353aa32bd66b1aa6512bea142b61a6f57eb5bb
+Author: mb6ockatf <mb6ockatf@relay.firefox.com>
+Date:   Sat Mar 11 11:31:00 2023 +0300
+
+    feat: basic HTML structure (#1)
+    
+    Signed-off-by: mb6ockatf <mb6ockatf@relay.firefox.com>
+
+commit 7b1ec504b12ab163a9b8b0792033cf0c325d3a9b
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Mar 10 22:11:57 2023 +0300
+
+    Initial commit
