@@ -121,6 +121,8 @@
 *.mtml linguist-documentation=false
 *.mtml linguist-detectable
 
+*.mps linguist-detectable=false
+
 MD5SUMS linguist-documentation=false
 MD5SUMS linguist-detectable
 SHA1SUMS linguist-documentation=false
